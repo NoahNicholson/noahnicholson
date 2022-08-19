@@ -3,8 +3,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/noahnicholson/
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Backend.    
-- 💬 Ask me about my NSS experience.
-  
+- 💬 Ask me about my NSS experienc.
+      
 <!--
 **NoahNicholson/noahnicholson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
