@@ -2,7 +2,7 @@
 - Check out my resume  
 - 📫 How to reach me: https://www.linkedin.com/in/noahnicholson/
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Backend.  
+- 🌱 I’m currently learning Backend.    
 - 💬 Ask me about my NSS experience.
   
 <!--
