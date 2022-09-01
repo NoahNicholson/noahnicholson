@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Check out my resume  
 - 📫 How to reach me: https://www.linkedin.com/in/noahnicholson/
-- 🔭 I’m currently working on C#
+- 🔭 I’m currently working on C#  
 - 🌱 I’m currently learning Backend.    
 - 💬 Ask me about my NSS experienc.    
            
