@@ -14,7 +14,7 @@
 <a href="mailto:noahnicholson239@yahoo.com@yahoo.com?subject=Hello%20Noah"><img src="[[https://img.shields.io/badge/-Email-red]](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"/></a>&nbsp;
 
 <br>
-
+<p>
 <br>
  Languages and Tools: 
 
