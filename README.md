@@ -1,10 +1,24 @@
-### Hi there 👋
-- Check out my resume  
-- 📫 How to reach me: https://www.linkedin.com/in/noahnicholson/
-- 🔭 I’m currently working on C#  
-- 🌱 I’m currently learning Backend.       
-- 💬 Ask me about my NSS experienc.      
-           
+<p>
+  <h1 align="center"><b>Hello there, I'm Noah Nicholson👋</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+</p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/NoahNicholson" />
+</p>
+
+<p align="center">
+<br>
+
+<a href="https://www.linkedin.com/in/noahnicholson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:noahnicholson239@yahoo.com@yahoo.com?subject=Hello%20Noah"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
+<br>
 
 <br>
 ### Languages and Tools: 
