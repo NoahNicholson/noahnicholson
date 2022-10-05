@@ -6,22 +6,17 @@
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/NoahNicholson" />
-</p>
 
 <p align="center">
 <br>
 
 <a href="https://www.linkedin.com/in/noahnicholson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:noahnicholson239@yahoo.com@yahoo.com?subject=Hello%20Noah"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+<a href="mailto:noahnicholson239@yahoo.com@yahoo.com?subject=Hello%20Noah"><img src="[https://img.shields.io/badge/-Email-red]" alt="Gmail"/></a>&nbsp;
 
 <br>
 
 <br>
-### Languages and Tools: 
+ Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
