@@ -1,7 +1,6 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Noah Nicholson👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Noah Nicholson a recent graduate of Nashville Software School👋</b></h1>
 </p>
-
 <p>
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
